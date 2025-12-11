@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritesh0011001" alt="ritesh0011001" /></a> </p>
 
-- 🔭 I’m currently working on **AI based chatapp**
+- 🔭 I’m currently working as a Trainee in **IGX** 
 
 - 🌱 I’m currently learning **Typescript**
 
