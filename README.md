@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Ritesh sharma</h1>
-<h3 align="center">A Passionate Full-stack Developer from India</h3>
+<h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh0011001&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh0011001" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **E-commerce**
 
-- 💬 Ask me about **Fullstack development**
+- 💬 Ask me about **Fullstack Development**
 
 - 📫 How to reach me **riteshsharma1897299@gmail.com**
 
-- ⚡ Fun fact **you can't beat me in chess**
+- ⚡ Fun fact **you can't beat me in Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
